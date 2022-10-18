@@ -1,0 +1,58 @@
+/* * {
+    padding: ;
+} */
+
+body {
+    background-color: #748CAB;
+    font-family: 'Courier New', Courier, monospace;
+}
+img {
+    width: 100px;
+    margin-left: 850px;
+    
+
+}
+h2{
+    color: gray;
+    font-style: italic;
+    
+ 
+}
+h1 {
+    color: aliceblue;
+    text-align: center;
+}
+ul {
+    color: aliceblue;
+}
+p {
+    color: aliceblue;
+    text-align: center;
+}
+#destaque {
+    text-align: left;
+}
+.destaques {
+    font-style: oblique;
+}
+.tamanho0 {
+    font-size: 25px;
+}
+.tamanho1 {
+    font-size: 23px;
+}
+.tamanho2 {
+    font-size: 21px;
+}
+.tamanho3 {
+    font-size: 19px;
+}
+.tamanho4 {
+    font-size: 17px;
+}
+.tamanho5 {
+    font-size: 15px;
+}
+.nome {
+    font-style: italic;
+}
